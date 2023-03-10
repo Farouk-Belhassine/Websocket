@@ -1,6 +1,6 @@
 <h1>Local WebSocket with PHP</h1>
 
-<p>This is a local WebSocket project with PHP that allows real-time communication between a server and a client. A desktop app is also included</p>
+<p>This is a local WebSocket project with PHP that allows real-time communication between a server and a client. A desktop app might be added in the future</p>
 
 <h2>Getting Started</h2>
 
